@@ -12,3 +12,5 @@ user_id,item_id;item_id;...,outfit_id
 ### Item data
 item_id,cate_id,pic_url,title
 
+### 李剑备注：阿里服装搭配数据集
+https://arxiv.org/pdf/1905.01866.pdf  阿里论文 -图网络+textCNN+CNN+CF
